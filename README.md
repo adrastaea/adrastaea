@@ -4,7 +4,6 @@ My name is ✨Taea✨
 
 - Check out my portfolio website! [taea.online](https://www.taea.online)
 - Check out my [LinkedIn](https://www.linkedin.com/in/taea)
-- I'm currently on the job hunt! Address opportunities across hardware, data, and frontend domains to taea.vogel@gmail.com
 <!--
 **adrastaea/adrastaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
